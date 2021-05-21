@@ -1,0 +1,8 @@
+-r ocr/requirements.txt
+
+jupyter
+numpy
+opencv-python
+matplotlib
+scikit-image
+scipy
